@@ -1,2 +1,2 @@
 # belajar-python
-tipe data
+tipe data & variabel
