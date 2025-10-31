@@ -1,0 +1,2 @@
+# belajar-python
+tipe data
